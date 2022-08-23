@@ -1,0 +1,12 @@
+.block {
+    height: 200px;
+    width: 500px;
+    border: 1px dotted black;
+    display: flex;
+    justify-content: space-between;
+}
+.item {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
